@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/cassandraterry/static/css/main.bf71db79.chunk.css",
+    "main.js": "/cassandraterry/static/js/main.449c85f3.chunk.js",
+    "main.js.map": "/cassandraterry/static/js/main.449c85f3.chunk.js.map",
+    "runtime-main.js": "/cassandraterry/static/js/runtime-main.57ddda32.js",
+    "runtime-main.js.map": "/cassandraterry/static/js/runtime-main.57ddda32.js.map",
+    "static/js/2.78ff8156.chunk.js": "/cassandraterry/static/js/2.78ff8156.chunk.js",
+    "static/js/2.78ff8156.chunk.js.map": "/cassandraterry/static/js/2.78ff8156.chunk.js.map",
+    "index.html": "/cassandraterry/index.html",
+    "precache-manifest.decdc017868067564e75c6f41c0d533a.js": "/cassandraterry/precache-manifest.decdc017868067564e75c6f41c0d533a.js",
+    "service-worker.js": "/cassandraterry/service-worker.js",
+    "static/css/main.bf71db79.chunk.css.map": "/cassandraterry/static/css/main.bf71db79.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.57ddda32.js",
+    "static/js/2.78ff8156.chunk.js",
+    "static/css/main.bf71db79.chunk.css",
+    "static/js/main.449c85f3.chunk.js"
+  ]
+}
